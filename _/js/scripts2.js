@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#svg").on("click",function(){$(this)}),$("#cloudlargeDay1-testTiming").click(function(){$("#cloudlargeDay1-testTiming").fadeOut(5e3).$("#cloudLageNight1-testTiming").fadeTo(5e3)}).click(function(){$("#cloudLageNight1-testTiming").fadeOut(5e3).$("#cloudlargeDay1-testTiming").fadeTo(5e3)})});
